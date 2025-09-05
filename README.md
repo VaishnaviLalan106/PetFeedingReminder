@@ -36,12 +36,16 @@ Pet-Feeding-Reminder/
 ---
 
 ## 🔧 Tech Stack
-     -Python 3
-     -Tkinter (GUI)
-     -ttkthemes (Modern UI themes)
-     -Pillow (Image handling)
-     -PyInstaller (for EXE conversion)
+-Python 3
+-Tkinter (GUI)
+-ttkthemes (Modern UI themes)
+-Pillow (Image handling)
+-PyInstaller (for EXE conversion)
+
 ---
+
+## Developed by 
+**VAISHNAVI LALAN**
 
 ## 🎨 Customization
      -Change theme using ThemedTk(theme="breeze").
@@ -61,17 +65,17 @@ Make sure the paw image is included in the same folder or use --add-data option 
 ---
 
 ## 📝 Future Improvements
-   -Support multiple reminders.
-   -Add sound notification when feeding time arrives.
-   -Persistent reminders even after closing the app.
-   -Add a countdown timer until the next feeding.
+-Support multiple reminders.
+-Add sound notification when feeding time arrives.
+-Persistent reminders even after closing the app.
+-Add a countdown timer until the next feeding.
 
 ---
 
 ## 💖 Acknowledgements
-   -Inspired by pet lovers 🐶🐱
-   -Icons made with love ❤️
-   -Thanks to ttkthemes and Pillow for making the UI beautiful.
+-Inspired by pet lovers 🐶🐱
+-Icons made with love ❤️
+-Thanks to ttkthemes and Pillow for making the UI beautiful.
 
 ---
 
