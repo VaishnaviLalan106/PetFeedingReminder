@@ -20,7 +20,7 @@
 
 ## 🖥️ Screenshots
   
-![App Screenshot](petfeeder.png)  
+![App Screenshot](Petfeeder.png)  
 ![App Screenshot](reminder.png)  
 
 ---
