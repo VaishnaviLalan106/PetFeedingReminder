@@ -1,4 +1,3 @@
-![Cute Pet Banner](banner.gif)
 # 🐾 Pet Feeding Reminder 🐶
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
@@ -20,8 +19,7 @@
 ---
 
 ## 🖥️ Screenshots
-*Include screenshots of your app here*  
-
+  
 ![App Screenshot](petfeeder.png)  
 ![App Screenshot](reminder.png)  
 
@@ -38,17 +36,17 @@ Pet-Feeding-Reminder/
 ---
 
 ## 🔧 Tech Stack
-     - Python 3
+     -Python 3
      -Tkinter (GUI)
      -ttkthemes (Modern UI themes)
      -Pillow (Image handling)
      -PyInstaller (for EXE conversion)
-
 ---
+
 ## 🎨 Customization
-    -Change theme using ThemedTk(theme="breeze").
-    -Replace the paw icon with your own image.
-    -Adjust the window size and colors in root.geometry() and root.configure(bg="").
+     -Change theme using ThemedTk(theme="breeze").
+     -Replace the paw icon with your own image.
+     -Adjust the window size and colors in root.geometry() and root.configure(bg="").
 
 ---
 
