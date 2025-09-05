@@ -25,13 +25,16 @@
 
 ---
 
+## Folder structure
+```
 Pet-Feeding-Reminder/
 │
 ├── dist/                   # Compiled EXE files (ignored in git)
 ├── paw_transparent.png     
 ├── petfeeder.py #
 ├── README.md               
-├── .gitignore              
+├── .gitignore
+```             
 
 ---
 
