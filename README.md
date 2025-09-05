@@ -39,16 +39,22 @@ Pet-Feeding-Reminder/
 ---
 
 ## 🔧 Tech Stack
--Python 3
--Tkinter (GUI)
--ttkthemes (Modern UI themes)
--Pillow (Image handling)
--PyInstaller (for EXE conversion)
+    -Python 3
+    -Tkinter (GUI)
+    -ttkthemes (Modern UI themes)
+    -Pillow (Image handling)
+    -PyInstaller (for EXE conversion)
 
 ---
 
-## Developed by 
-**VAISHNAVI LALAN**
+## 🙋‍♀️ Developed By
+
+**Vaishnavi Lalan**  
+💼 Software Development Intern at Prodigy Infotech 
+🔗 [LinkedIn Profile](www.linkedin.com/in/vaishnavi-lalan-270419310)
+🔗 [GitHub Profile](https://github.com/VaishnaviLalan106)
+
+---
 
 ## 🎨 Customization
      -Change theme using ThemedTk(theme="breeze").
